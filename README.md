@@ -11,4 +11,4 @@ const Jeremy = {
 }
 ```
 
-![visitors](https://komarev.com/ghpvc/jeremysylee)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/jeremysylee)
