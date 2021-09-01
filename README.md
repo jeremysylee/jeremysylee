@@ -11,4 +11,4 @@ const Jeremy = {
 }
 ```
 
-![visitors](https://komarev.com/ghpvc/?jeremysylee)
+![visitors](https://komarev.com/ghpvc/jeremysylee)
