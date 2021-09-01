@@ -10,3 +10,5 @@ const Jeremy = {
   dataBases: ['MySQL', 'PostgreSQL', 'MongoDB'],
 }
 ```
+
+![](https://komarev.com/ghpvc/?jeremysylee)
