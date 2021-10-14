@@ -8,7 +8,7 @@ When I'm not coding, I'm probably surfing, spearfishing, or playing with my dogs
 const tools = {
   frontend: ['Javascript', 'React/Redux', 'jQuery', 'HTML', 'CSS', 'styled-components'],
   backend: ['Node', 'Express', 'MySQL', 'PostgreSQL', 'mongoDB', 'Jest'],
-  deployment: ['Docker', 'AWS(EC2, S3, RDS)', 'Nginx'],
+  deployment: ['Docker', 'AWS(EC2, RDS)', 'Nginx'],
 }
 ```
 
