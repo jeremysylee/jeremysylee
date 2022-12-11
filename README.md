@@ -1,10 +1,3 @@
 ### Hello, I'm Jeremy! 👋
 
-```javascript
-const tools = {
-  frontend: ['Javascript', 'React/Redux', 'jQuery', 'HTML', 'CSS', 'styled-components'],
-  backend: ['Node', 'Express', 'MySQL', 'PostgreSQL', 'mongoDB', 'Jest'],
-  deployment: ['Docker', 'AWS(EC2, RDS)', 'Nginx'],
-}
-```
-
+Most of my work lately is over on [gitlab](https://gitlab.com/jeremysylee)
